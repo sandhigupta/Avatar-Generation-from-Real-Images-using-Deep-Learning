@@ -36,4 +36,4 @@ python3 generator_model.py
 ### Evaluation
 #### GAN LOSS CURVES
 #### INCEPTION SCORE
-![Inception](images\inception/_score.png)
+![Inception](images/inception_score.png)
